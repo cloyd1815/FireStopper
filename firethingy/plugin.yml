@@ -1,0 +1,5 @@
+name: FireThingy
+version: 0.1
+main: me.cloyd1815.firethingy.Main
+description: Fire Thing
+commands:
